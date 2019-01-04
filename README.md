@@ -8,9 +8,9 @@
     1) StaticObject:
             Food
     2) DynamicCharacter:
-            Packman
+            1) Packman
                 PacMode
-            Ghost: 
+            2) Ghost: 
                Blinky
                Pinky
                Inky

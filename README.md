@@ -3,7 +3,7 @@
 ## main classes:
 
 1) Game
-    attributes: time, score, lives, map
+    1) attributes: time, score, lives, map
 2) GameObjects:
     1) StaticObject:
             Food

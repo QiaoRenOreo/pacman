@@ -17,6 +17,8 @@
                Clyde
                GhostMode
 
+## UML diagram
+![uml_class_diagram](https://user-images.githubusercontent.com/46351057/50719469-29fd7400-10d7-11e9-8ea2-be188ac2cb45.PNG)
 
 ## outcome visualization
 ![pacman_game](https://user-images.githubusercontent.com/46351057/50719341-a98a4380-10d5-11e9-8728-f1b5b5021d8e.jpg)

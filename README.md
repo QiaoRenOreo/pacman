@@ -9,13 +9,9 @@
             Food
     2) DynamicCharacter:
             1) Packman
-                PacMode
-            2) Ghost: 
-               Blinky
-               Pinky
-               Inky
-               Clyde
-               GhostMode
+
+            2) Ghost 
+            
 
 ## UML diagram
 ![uml_class_diagram](https://user-images.githubusercontent.com/46351057/50719469-29fd7400-10d7-11e9-8ea2-be188ac2cb45.PNG)

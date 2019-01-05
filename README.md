@@ -9,7 +9,6 @@
             Food
     2) DynamicCharacter:
             1) Packman
-
             2) Ghost 
             
 
